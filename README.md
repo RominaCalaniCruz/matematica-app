@@ -8,9 +8,8 @@
 
 1. **Clonar el repositorio**  
 
-git clone https://github.com/tu_usuario/tu_repositorio.git 
+git clone https://github.com/RominaCalaniCruz/matematica-app.git
 
-cd <NOMBRE_DEL_PROYECTO>
 
 2. **Crear y activar el entorno virtual**  
 
