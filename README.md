@@ -9,6 +9,7 @@
 1. **Clonar el repositorio**  
 
 git clone https://github.com/tu_usuario/tu_repositorio.git 
+
 cd <NOMBRE_DEL_PROYECTO>
 
 2. **Crear y activar el entorno virtual**  
